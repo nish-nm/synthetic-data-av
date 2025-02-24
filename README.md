@@ -1,4 +1,3 @@
-```markdown
 # 🚗 Synthetic Image Generation for Autonomous Vehicle Scenarios
 
 This project provides an end-to-end solution for generating **synthetic images of autonomous vehicle (AV) scenarios** using a **Retrieval-Augmented Generation (RAG)** pipeline. It leverages scenario metadata, LangChain for retrieval, FAISS for similarity search, and **Stable Diffusion** for high-quality image generation.
@@ -9,7 +8,7 @@ The system allows you to input a text description of a driving scenario, retriev
 
 ## 📂 Project Structure
 
-```
+``` bash
 synthetic-data-av/
 ├── data/
 │   └── scenario_prompts.csv            # Scenario prompts used for retrieval
