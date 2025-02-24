@@ -1,0 +1,4 @@
+id,weather,location,time,description
+1,rain,urban,night,"Scenario: Rainy night in an urban area with busy pedestrian crossings and low visibility."
+2,sunny,suburban,day,"Scenario: Sunny day in a suburban area with moderate traffic and clear skies."
+3,fog,rural,morning,"Scenario: Foggy morning on a rural road with low visibility and sparse traffic."
