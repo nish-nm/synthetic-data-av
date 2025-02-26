@@ -23,4 +23,4 @@ if st.button("Generate Image"):
         buf = BytesIO()
         image.save(buf, format="PNG")
         byte_im = buf.getvalue()
-        st.image(byte_im, caption="Generated Synthetic Image", use_container_width=True)
+        st.image(byte_im, caption="Generated Synthetic Image", use_container_width=True, width=500)

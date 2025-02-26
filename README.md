@@ -4,6 +4,12 @@ This project provides an end-to-end solution for generating **synthetic images o
 
 The system allows you to input a text description of a driving scenario, retrieves related prompts from a dataset of scenarios, and generates high-resolution synthetic images based on the input and retrieved information.
 
+![Streamlit App](app.png)
+``` bash
+query = "rural road sunny day"
+```
+![Generated Images](image.jpg)
+
 ---
 
 ## 📂 Project Structure
